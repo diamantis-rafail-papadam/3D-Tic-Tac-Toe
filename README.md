@@ -6,4 +6,4 @@ Feel free to open the "index.html" file with any browser and enjoy the game.
 All you need in order to play, is a gcc compiler and your imagination :v
 
 
-I don't know much about licenses but you may use/change/enhance my code for anything except commercial purposes, as long as you mention my github repository as a source.
+I don't know much about licenses but you may use/change/enhance my code for non-commercial purposes, as long as you mention my github repository as a source.
